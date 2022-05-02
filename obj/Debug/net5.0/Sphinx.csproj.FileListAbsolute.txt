@@ -1,0 +1,16 @@
+C:\Users\jerem\OneDrive\Desktop\projects\Riddles-of-the-Sphinx\bin\Debug\net5.0\Sphinx.exe
+C:\Users\jerem\OneDrive\Desktop\projects\Riddles-of-the-Sphinx\bin\Debug\net5.0\Sphinx.deps.json
+C:\Users\jerem\OneDrive\Desktop\projects\Riddles-of-the-Sphinx\bin\Debug\net5.0\Sphinx.runtimeconfig.json
+C:\Users\jerem\OneDrive\Desktop\projects\Riddles-of-the-Sphinx\bin\Debug\net5.0\Sphinx.runtimeconfig.dev.json
+C:\Users\jerem\OneDrive\Desktop\projects\Riddles-of-the-Sphinx\bin\Debug\net5.0\Sphinx.dll
+C:\Users\jerem\OneDrive\Desktop\projects\Riddles-of-the-Sphinx\bin\Debug\net5.0\ref\Sphinx.dll
+C:\Users\jerem\OneDrive\Desktop\projects\Riddles-of-the-Sphinx\bin\Debug\net5.0\Sphinx.pdb
+C:\Users\jerem\OneDrive\Desktop\projects\Riddles-of-the-Sphinx\obj\Debug\net5.0\Sphinx.csproj.AssemblyReference.cache
+C:\Users\jerem\OneDrive\Desktop\projects\Riddles-of-the-Sphinx\obj\Debug\net5.0\Sphinx.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jerem\OneDrive\Desktop\projects\Riddles-of-the-Sphinx\obj\Debug\net5.0\Sphinx.AssemblyInfoInputs.cache
+C:\Users\jerem\OneDrive\Desktop\projects\Riddles-of-the-Sphinx\obj\Debug\net5.0\Sphinx.AssemblyInfo.cs
+C:\Users\jerem\OneDrive\Desktop\projects\Riddles-of-the-Sphinx\obj\Debug\net5.0\Sphinx.csproj.CoreCompileInputs.cache
+C:\Users\jerem\OneDrive\Desktop\projects\Riddles-of-the-Sphinx\obj\Debug\net5.0\Sphinx.dll
+C:\Users\jerem\OneDrive\Desktop\projects\Riddles-of-the-Sphinx\obj\Debug\net5.0\ref\Sphinx.dll
+C:\Users\jerem\OneDrive\Desktop\projects\Riddles-of-the-Sphinx\obj\Debug\net5.0\Sphinx.pdb
+C:\Users\jerem\OneDrive\Desktop\projects\Riddles-of-the-Sphinx\obj\Debug\net5.0\Sphinx.genruntimeconfig.cache
